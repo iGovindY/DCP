@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595308969 source:c:\d\govind\study\dcp\p1_sumoftwonumberinarray\main.cpp
+	<iostream>
+	<unordered_set>
+
