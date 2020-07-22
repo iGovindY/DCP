@@ -8,8 +8,8 @@ Hopefully I will be updating it regularly.
 Most of the [Solutions](../../tree/master/Solutions/) are Code::Block projects, can be opened as it is in [Code::Blocks](http://www.codeblocks.org/)
 
 ## Coding Problem
- 
-| Problem #|  Name        | My Solution  | Feedback<br>or query|
-| :------- | :----------: | :----------- | :-----------     |
-| 1        | SumOfTwoNumberInArray |[Solution](../../tree/master/Solutions/P1_SumOfTwoNumberInArray)|[here](../../issues/1)|
-| 2        | ArrayProductPuzzle |[Solution](../../tree/master/Solutions/P2_ArrayProductPuzzle)|[here](../../issues/2)|
+
+| Problem #|  Name                        | My Solution                                                     | Feedback<br>or query  |
+| :------- | :----------:                 | :-----------                                                    | :-----------          |
+| 1        | Sum Of Two Number In Array   |[Solution](../../tree/master/Solutions/P1_SumOfTwoNumberInArray) |[here](../../issues/1) |
+| 2        | Array Product Puzzle         |[Solution](../../tree/master/Solutions/P2_ArrayProductPuzzle)    |[here](../../issues/2) |
