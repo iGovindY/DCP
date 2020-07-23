@@ -13,3 +13,4 @@ Most of the [Solutions](../../tree/master/Solutions/) are Code::Block projects, 
 | :------- | :----------:																		                                    | :-----------          |
 | 1        | [Sum Of Two Number In Array](../../tree/master/Solutions/P1_SumOfTwoNumberInArray)	|[here](../../issues/1) |
 | 2        | [Array Product Puzzle](../../tree/master/Solutions/P2_ArrayProductPuzzle)    		  |[here](../../issues/2) |
+| 3        | [Serialize Deserialize Tree](../../tree/master/Solutions/P3_SerializeDeserializeTree)|[here](../../issues/3)|
